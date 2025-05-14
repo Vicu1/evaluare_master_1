@@ -1,0 +1,10 @@
+Acest proiect este realizat în scop educațional pentru a demonstra conceptele de Continuous Integration și Continuous Deployment (CI/CD).
+
+CI/CD este o practică DevOps care permite dezvoltatorilor să livreze modificări de cod mai frecvent și mai fiabil.
+
+Etapele proiectului includ:
+- Crearea structurii de fișiere
+- Scrierea unui script de bază
+- Posibilitatea integrării cu un sistem de CI/CD (de exemplu, GitHub Actions)
+
+Într-un mediu real, am adăuga teste automate și am configura pipeline-uri pentru rularea automată a acestora.
