@@ -1,0 +1,1 @@
+# Nu sunt necesare librării externe pentru acest exemplu simplu
